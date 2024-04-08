@@ -1,5 +1,13 @@
-#include "SGP30.h"
+/*
+	Project  : LaLiMat project (https://www.youtube.com/playlist?list=PLJBKmE2nNweRXOebZjydkMEiq2pHtBMOS in Chinese)
+ 	file     : SGP30.ino
+	Author   : ykchau
+ 	youtube  : youtube.com/ykchau888
+  	Licenese : GPL-3.0
+   	Please let me know if you use it commercial project.
+*/
 
+#include "SGP30.h"
 
 byte RH = 69;
 byte temp = 27;
